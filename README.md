@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aashupokemon
+- 👋 Hi, I’m @Ayush
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning management at Chandigarh University.
 - 📫 How to reach me Linkedin: www.linkedin.com/in/ayush-gupta-31182a196
